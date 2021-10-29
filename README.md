@@ -1,4 +1,4 @@
-# assembly-voting
+# polling
 
 API REST para votação em assembleia
 
