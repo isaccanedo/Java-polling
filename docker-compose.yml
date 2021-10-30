@@ -6,7 +6,7 @@ services:
     ports:
       - 27017:27017
   app:
-    image: isaccanedo/assembly-voting
+    image: isaccanedo/polling
     ports:
       - 8080:8080
     links:
